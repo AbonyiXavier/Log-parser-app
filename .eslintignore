@@ -1,0 +1,5 @@
+/bin/**
+/build/**
+/logs
+jest.config.js
+# Add any other files or folders that you want eslint to ignore
